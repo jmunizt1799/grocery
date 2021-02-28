@@ -1,9 +1,13 @@
 ## Welcome to GitHub Pages
 
 [Shop For Groceries](Shop-For-Groceries.html)
+
 [Checkout Groceries](Checkout-Groceries.html)
+
 [Return Products](Return-Products.html)
+
 [Employee Discount](Employee-Discount.html)
+
 [Gives Feedback](Gives-Feedback.html)
 
 You can use the [editor on GitHub](https://github.com/jmunizt1799/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
